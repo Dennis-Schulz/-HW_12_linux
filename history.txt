@@ -1,0 +1,328 @@
+    1  get config
+    2  git config
+    3  git config
+    4  git config
+    5  user.Name
+    6  user,name
+    7  user.name
+    8  git config global
+    9  git config global user.name
+   10  git config
+   11  git config --global user.name "Dennis-Schulz"
+   12  git config --global user.email "denissulc401@gmail.com"
+   13  git config --global user.name
+   14  git config --global user.email
+   15  git config --global user.name "Dennis Schulz"
+   16  git config --global user.name
+   17  ls -al ~/.ssh
+   18  git config --list
+   19  cd
+   20  ssh-keygen
+   21  cat .ssh/id_rsa
+   22  clear
+   23  cat .ssh/id_rsa.pub
+   24  ssh ec2-user@linux.itcareerhub.de
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  cd
+   27  ssh ec2-user@linux.itcareerhub.de
+   28  ssh ec2-user@linux.itcareerhub.de~
+   29  ssh ec2-user@linux.itcareerhub.de~
+   30  cd
+   31  ssh ec2-user@linux.itcareerhub.de~
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  [200~ssh ec2-user@linux.itcareerhub.de
+   34  [200~ssh ec2-user@linux.itcareerhub.de
+   35  ssh ec2-user@linux.itcareerhub.de
+   36  [200~ssh ec2-user@linux.itcareerhub.de
+   37  [200~ssh ec2-user@linux.itcareerhub.de
+   38  ssh ec2-user@linux.itcareerhub.de
+   39  cd
+   40  cat .ssh/id_rsa.pub 
+   41  cd C:\Users\ICH\Desktop\test
+   42  cd \Users\ICH\Desktop\test
+   43  /Desktop\test
+   44  cd
+   45  /Desktop/test
+   46  cd /Users/ICH/Desktop/test
+   47  /c/Users/ICH/Desktop/test
+   48  echo "Hello" >> README.md
+   49  cd /c/Users/ICH/Desktop/test
+   50  echo "Hello" >> README.md
+   51  git init
+   52  git branch
+   53  ls -la
+   54  cd .git/
+   55  ls -la
+   56  cd ..
+   57  git status
+   58  git add .
+   59  git status
+   60  git commit -m "add File README.md"
+   61  git branch -M main
+   62  git remote add origin git@github.com:Dennis-Schulz/test.git
+   63  git remote -v
+   64  git push -u origin main
+   65  history >> history.txt
+   66  export_file history.txt
+   67  git status
+   68  ls -la
+   69  rm -rf .git
+   70  ls -la
+   71  >> text.txt
+   72  mkdir dennis
+   73  git status
+   74  ls -la
+   75  get init
+   76  get status
+   77  ls -la
+   78  get init
+   79  git init
+   80  git add .
+   81  ls -ls
+   82  git status
+   83  git commit -m "add text.txt and derictory dennis"
+   84  git branch -M mail
+   85  git branch -M main
+   86  remote add origin git@github.com:Dennis-Schulz/test.git~
+   87  git remote add origin git@github.com:Dennis-Schulz/test.git~
+   88  git remote -v
+   89  git push
+   90  git push -u origin main 
+   91  git push -u origin main
+   92  ls -la
+   93  git push -u origin main
+   94  git status
+   95  nano text.txt
+   96  git status
+   97  git add text.txt
+   98  git status
+   99  git commit -M "add string Hello"
+  100  git commit -m "add string Hello"
+  101  git push
+  102  git push -u origin main
+  103  git remote add origin git@github.com:Dennis-Schulz/test.git
+  104  git remote add origin git@github.com:Dennis-Schulz/test.git
+  105  git push -u origin main
+  106  rm -rf .git
+  107  ls -la
+  108  clear
+  109  cd C:/Users/ICH/Desktop/Linux
+  110  echo "# HomeWork Linux" README.md
+  111  git init
+  112  git status
+  113  git commit -m "Add Linux"
+  114  git branch -M main
+  115  git remote add origin git@github.com:Dennis-Schulz/Linux.git
+  116  git push -u origin main
+  117  git push -u origin main
+  118  git remote add origin git@github.com:Dennis-Schulz/Linux.git
+  119  git remote -v
+  120  git status
+  121  git add .
+  122  git commit -m "Add Linux"
+  123  git push -u origin main
+  124  echo "# HomeWork Linux" >> README.md
+  125  git status
+  126  git add .
+  127  git status
+  128  git remote add origin git@github.com:Dennis-Schulz/Linux.git
+  129  git push -u origin mai
+  130  cd
+  131  cd C:\Users\ICH\Desktop\git_intro
+  132  cd C:/Users/ICH/Desktop/git_intro
+  133  get init
+  134  git init
+  135  git branch -M main
+  136  git status
+  137  git add .
+  138  git commit -m "add Image"
+  139  remote add origin git@github.com:Dennis-Schulz/git_intro.git
+  140  remote -v
+  141  ssh ec2-user@linux.itcareerhub.de
+  142  cd
+  143  ssh ec2-user@linux.itcareerhub.de
+  144  tree
+  145  cd
+  146  ls
+  147  cd Desktop/
+  148  ssh ec2-user@linux.itcareerhub.de
+  149  cd
+  150  cd /Desktop
+  151  ls
+  152  cd Desktop/
+  153  ls
+  154  ls
+  155  ls
+  156  cd Desktop/
+  157  scp ec2-user@linux.itcareerhub.de:/tmp/myfirstbashscript.sh ~/Desktop
+  158  ssh ec2-user@linux.itcareerhub.de
+  159  ssh ec2-user@linux.itcareerhub.de
+  160  ssh ec2-user@linux.itcareerhub.de
+  161  cd /Linux
+  162  cd C:/Users/ICH/Desktop/Linux
+  163  echo "# Linux" >> README.md
+  164  pwd
+  165  git init
+  166  ls -la
+  167  git status
+  168  git add README.md
+  169  git status
+  170  git commit -m "add README.md"
+  171  git branch -M main
+  172  git branch
+  173  git remote add origin git@github.com:Dennis-Schulz/Linux.git
+  174  git remote
+  175  git remote -v
+  176  git push -u origin main
+  177  git status
+  178  git status
+  179  git status
+  180  add HomeWork\ 9.txt 
+  181  add HomeWork 9.txt 
+  182  add HomeWork9.txt 
+  183  git status
+  184  git add HomeWork 9.txt 
+  185  git add HomeWork_9.txt 
+  186  git commit -m "add File HomeWork_9.txt"
+  187  git push -u origin main
+  188  git status
+  189  git add HomeWorks/
+  190  git commit -m "add HomeWorks"
+  191  git push -u origin main
+  192  git status
+  193  git rm HomeWork_9.txt 
+  194  git commit -m "delete HomeWork_9.txt"
+  195  git pish
+  196  git push -u origin main
+  197  cd C:/Users/ICH/Desktop/250225
+  198  get init
+  199  git init
+  200  git add .
+  201  git status
+  202  git commit -m "add Files"
+  203  git branch
+  204  git branch -M Main
+  205  git remote add origin git@github.com:Dennis-Schulz/250225.git
+  206  git push -u origin main
+  207  git push -u origin Main
+  208  git checkout -b test
+  209  git branch
+  210  git log
+  211  touch test4.txt
+  212  ls -ls
+  213  rm test.txt
+  214  git status
+  215  git add .
+  216  git commit -m "add 2 Files  deleted 1 Files"
+  217  git push -u origin test
+  218  git branch -d test
+  219  git branch -D test
+  220  git branch
+  221  git checkout Main
+  222  git branch -d test
+  223  git branch
+  224  ls -ls
+  225  ls - la
+  226  git status
+  227  git pull
+  228  git status
+  229  git pull origin Main
+  230  git status
+  231  ls - la
+  232  ls -la
+  233  [200~$ nano .
+  234  nano .gitignore
+  235  git status
+  236  git add .gitignore
+  237  git commit -m "added File ,gitignore"
+  238  git push origin Main
+  239  touch 1.jpg
+  240  git status
+  241  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  242  git status
+  243  git add .
+  244  git status
+  245  git commit -m "added new .gitignore"
+  246  git push
+  247  cd ~/New
+  248  cd C:/Users/ICH/Desktop/New
+  249  git clone [200~
+  250  git clone git@github.com:Dennis-Schulz/bashscripts.git
+  251  ls -la
+  252  cd C:/Users/ICH/Desktop/New/bashscripts/
+  253  touch dennis.txt
+  254  git status
+  255  git add dennis.txt
+  256  commit -m "added dennis.txt"
+  257  git commit -m "added dennis.txt"
+  258  git branch -M main
+  259  git branch -M master
+  260  git push origin master
+  261  cd C:/Users/ICH/Desktop/git-branch
+  262  echo "# git-branch" >> README.md
+  263  git init
+  264  git branch -m main
+  265  git remote add origin git@github.com:Dennis-Schulz/git-branch.git
+  266  git push -u origin main
+  267  git status
+  268  git add .
+  269  git status
+  270  git push -u origin main
+  271  git remote add origin git@github.com:Dennis-Schulz/git-branch.git
+  272  git branch
+  273  ls -la
+  274  git push -u origin main
+  275  cd C:/Users/ICH/Desktop/git-branch~
+  276  cd C:/Users/ICH/Desktop/git-branch
+  277  echo "# git-branch" >> README.md
+  278  git init
+  279  git branch -m main
+  280  git status
+  281  git add .
+  282  git status
+  283  git commit -m "added file README.md"
+  284  git remote add origin git@github.com:Dennis-Schulz/git-branch.git
+  285  git push -u origin main
+  286  git checkout -b gitignore
+  287  ls -la
+  288  pdw
+  289  pwd
+  290  nano .gitignore
+  291  git status 
+  292  git add .gitignore 
+  293  git commit -m "added file .gitignore"
+  294  git push -u origin gitignore
+  295  ssh ec2-user@linux.itcareerhub.de
+  296  ec2-user@linux.itcareerhub.de:/opt/131224-wdm/dennis/permission_checker.sh ~/Desktop
+  297  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/dennis/permission_checker.sh ~/Desktop
+  298  ssh ec2-user@linux.itcareerhub.de
+  299  cd C:/Users/ICH/Desktop/Linux
+  300  git status
+  301  git add .
+  302  git status
+  303  git commit -m "File added permission_checker.sh"
+  304  git push origin main
+  305  git remote -v
+  306  cd /c/Users/ICH/Desktop/HW_12_Linux
+  307  git clone https://github.com/Dennis-Schulz/-HW_12_linux
+  308  cd /c/Users/ICH/Desktop/
+  309  git clone https://github.com/Dennis-Schulz/-HW_12_linux
+  310  git checkout -b feature
+  311  branch
+  312  cd /c/Users/ICH/Desktop/-HW_12_linux
+  313  git checkout -b feature
+  314  nado README.md 
+  315  nano README.md 
+  316  nano .gitignore 
+  317  git status
+  318  git add README.md .gitignore 
+  319  git status
+  320  git commit -m "Added changes to README and .gitignore"
+  321  git push origin feature
+  322  git push origin feature
+  323  git commit --amend -m "Added changes to README and .gitignore amend"
+  324  git push --force origin feature
+  325  git checkout main
+  326  git merge feature
+  327  git push origin main
+  328  history > history.txt
